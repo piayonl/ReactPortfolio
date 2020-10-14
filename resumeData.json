@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Piayon Lassanah",
+    "occupation": "Student",
+    "description": "React Portfolio",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Piayon Lassanah. I enjoy reading, traveling, watching sports, and spending time with family. Currently satisfying my fascination with web development. Below is my resume, which highlights some of my professional experiences.",
+    "email": "piayonl@yahoo.com",
+    "phone": "+215-000-0000",
+    "address": {
+      "street": "1500 Market Street",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19102"
+    },
+    "resumedownload": "images/resume.pdf",
+    
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/piayon-lassanah-2302261a8/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/piayonl",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills and Proficiency",
+    "education": [
+      {
+        "school": "University of Pennsylvania",
+        "degree": "Penn LPS Coding Bootcamp Certificate, 2020",
+        "graduated": "November 2020",
+        "description": "An intensive 24-week-long bootcamp dedicated to designing and building web applications. Skills learned: HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL,MongoDB, Express, Handlebars, and React."
+      }
+    ],
+    "work": [
+      {
+        "company": "Kannah & Lassanah,LLC",
+        "title": "Founding Partner",
+        "years": "January 2017 - Present",
+        "description": "Perfecting My Craft."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.JS",
+        "level": "100%"
+      },
+      {
+        "name": "MONGO",
+        "level": "80%"
+      },
+      {
+        "name": "JAVASCRIPT",
+        "level": "60%"
+      },
+      {
+        "name": "CSS3",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "REACT",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project 1: Covid-19 Dash",
+        "category": "Used APIs to develop an application to display Covid-19 data",
+        "image": "CovidDash.jpg",
+        "url": "https://jamesravelle.github.io/covid-dash/"
+      },
+      {
+        "title": "Wine-A-Lot",
+        "category": "Wines Sales Tracker",
+        "image": "wine-production.jpg",
+        "url": "https://project-2-group1.herokuapp.com/7"
+      },
+      {
+        "title": "Employee Management System",
+        "category": "Employee Management System Using MYSQL",
+        "image": "EmployeeManagement.jpeg",
+        "url": "https://drive.google.com/file/d/1u1RuhD7ZkPTpQKfLTOK7tH3VD9l-AN_v/view?usp=sharing"
+      },
+      {
+        "title": "Budget Tracker",
+        "category": "Budget Tracker Using Service Worker",
+        "image": "BudgetTracker.jpg",
+        "url": "https://thawing-fjord-89896.herokuapp.com"
+      },
+      {
+        "title": "REACT Employee Directory",
+        "category": "Employee Directory built with React",
+        "image": "EmployeeDirectory.jpg",
+        "url": "https://piayonl.github.io/EmployeeSearch/"
+      },
+      {
+        "title": "Password Generator",
+        "category": "Application that randomly generates a secured password with the user-selected criteria.",
+        "image": "PasswordGenerator.jpg",
+        "url": "https://piayonl.github.io/PWGENERATOR/"
+      }
+    ]
+  }
+}
